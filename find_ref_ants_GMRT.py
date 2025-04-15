@@ -2,7 +2,6 @@
 # Select least-flagged reference antennas for calibration in CASA6
 #---------------------------------------------------------------
 
-from casatasks import flagdata
 from casatools import table
 
 # --- User input ---
